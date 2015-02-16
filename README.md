@@ -1,0 +1,2 @@
+# tclsh_cppm_tools
+CPPM_AAA_MANUAL_SIMU_API
